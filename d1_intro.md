@@ -10,7 +10,10 @@ why do we follow a sequence while querying
  Install postgres db
  download the relation db paper
  create a leetcode and hackerrank free account
-#Notes 💡 History and basics of databases
+
+#Notes
+
+💡 History and basics of databases
 
 SEQUEL or sql was first developed by scientists from the IBM.
 
