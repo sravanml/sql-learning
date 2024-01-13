@@ -7,7 +7,7 @@ Action items
 
 - [ ] Scenarios where like is used and = is used
 
-_Note ends here_
+_Note ends here____
 
 ✏️ **Notes:**
 
